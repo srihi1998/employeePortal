@@ -1,0 +1,219 @@
+/*Styiling of Header*/
+header h1 {
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    background-color: #333;
+    text-align: center;
+}
+
+/*Creating Megamenu*/
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+  
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+/*Styling of drop down button*/
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+  
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font: inherit; 
+    margin: 0; 
+}
+  
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: orangered;
+}
+  
+/*Styling of Dropdown content*/
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: 100%;
+    left: 0;
+    z-index: 1;
+}
+ 
+/*Styling of Dropdown content header*/
+.dropdown-content .header {
+    background: orangered;
+    text-align: center;
+    font-size: larger;
+    padding: 5px;
+    color: white;
+}
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+  
+/*Styling of Dropdown content column class*/
+.column {
+    float: left;
+    width: 23.5%;
+    padding: 10px;
+    background-color: #ccc;
+    height: 250px;
+}
+  
+.column a {
+    float: none;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+  
+.column a:hover {
+    background-color: #ddd;
+}
+  
+/*Styling of Dropdown content row class*/
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*Aligh heading to center*/
+h2{
+    text-align: center;
+}
+
+
+/*Hiding section*/
+section {
+    display: none;
+}
+
+/*Display section when selected*/
+section:target {
+    display: block;
+}
+
+.employee a{
+    color: black !important;
+    background-color: coral !important;
+}
+
+/*Styling Form*/
+fieldset{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+legend{
+    text-align: center;
+}
+
+div{
+    padding: 10px;
+}
+
+.input label {
+    display: inline-block;
+    width: 200px;
+}
+
+.list label {
+    display: inline-block;
+    width: 200px;
+}
+
+.radioButton input[type="radio"] {
+    margin-left: 200px ;
+}
+
+#male{
+    margin-left: 145px !important;
+}
+
+.checkboxes input[type="checkbox"]{
+    margin-left: 200px ;
+}
+
+#sport{
+    margin-left: 139px ;
+}
+
+.input input {
+    width: 200px;
+    background-color: #ccc;
+}
+
+input[type="submit"] {
+    width: auto;
+}
+
+.help {
+    display: none;
+    font-size: 100%;
+}
+
+input:focus + .help {
+    display: inline-block;
+}
+/*Styling table*/
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: auto;
+}
+  
+tr:nth-child(even){
+    background-color: #ddd;
+}
+  
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: orangered;
+    color: white;
+}
+
+/*Styling unorderd list*/
+ul {
+    list-style: square;
+    background: #ccc;
+    padding: 20px;
+}
+
+ul li {
+    background: #ddd;
+    margin: 5px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover{
+    color: orangered;
+}
