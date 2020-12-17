@@ -13,11 +13,11 @@
     </div>
 
     <header>
-        <h1>Welocome to KITS Employee Portal</h1>
+        <h1>Welcome to KITS Employee Portal</h1>
     </header>
  
     <div>
-        <h2>Welocome to Project Details Page</h2>
+        <h2>Welcome to Project Details Page</h2>
         <table>
         <tr>
             <th>Id</th>
