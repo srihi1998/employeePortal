@@ -1,5 +1,5 @@
 <section id="deleteEmployee">
-    <h2>Welocome to Employee Delete Page</h2>
+    <h2>Welcome to Employee Delete Page</h2>
     <form action="#successDeleteEmployee" method="POST">
         <fieldset>
             <legend>Employee Form</legend>
