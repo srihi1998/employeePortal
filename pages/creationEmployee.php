@@ -1,4 +1,4 @@
-<h2>Welocome to Employee Creation Page</h2>
+<h2>Welcome to Employee Creation Page</h2>
 <form action="#successEmployee" method="POST">
     <fieldset>
         <legend>Employee Form</legend>
