@@ -17,7 +17,7 @@
     </header>
  
     <div>
-        <h2>Welocome to Project Details Page</h2>
+        <h2>Welcome to Project Details Page</h2>
         <table>
         <tr>
             <th>Id</th>
