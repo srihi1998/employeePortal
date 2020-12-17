@@ -52,7 +52,7 @@
     </div>
 
     <header>
-        <h1>Welcome to KITS Employee Portal</h1>
+        <h1>KITS Employee Portal</h1>
     </header>
 
     <div class="content">
