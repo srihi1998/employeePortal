@@ -1,5 +1,5 @@
 <section id="home">
-<h2>Welocome to Home Page</h2>
+<h2>Welcome to Home Page</h2>
 <h4>List of Employees<h4>
 <ul class="links"> 
 <?php
