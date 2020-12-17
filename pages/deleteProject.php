@@ -1,5 +1,5 @@
 <section id="deleteProject">
-    <h2>Welocome to Project Delete Page</h2>
+    <h2>Welcome to Project Delete Page</h2>
     <form action="#successDeleteProject" method="POST">
         <fieldset>
             <legend>Project Form</legend>

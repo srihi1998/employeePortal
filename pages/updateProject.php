@@ -1,5 +1,5 @@
 <section id="updateProject">
-    <h2>Welocome to Project Update Page</h2>
+    <h2>Welcome to Project Update Page</h2>
     <form action="#successUpdateProject" method="POST">
         <fieldset>
             <legend>Project Form</legend>

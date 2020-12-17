@@ -1,4 +1,4 @@
-<h2>Welocome to Projects List Page</h2>
+<h2>Welcome to Projects List Page</h2>
 <table>
     <tr>
         <th>Id</th>

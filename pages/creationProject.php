@@ -1,4 +1,4 @@
-<h2>Welocome to Project Creation Page</h2>
+<h2>Welcome to Project Creation Page</h2>
 <form action="#successProject" method="POST">
     <fieldset>
         <legend>Project Form</legend>
